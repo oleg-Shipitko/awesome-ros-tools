@@ -6,7 +6,10 @@
 
 The list of tools and packages for Robot Operating System development!
 
-## [Build tools]
+## [Build tools](#awesome-ros-tools)
+* catkin_tools - Command line tools for working with catkin [[github](https://github.com/catkin/catkin_tools) ![catkin_tools](https://img.shields.io/github/stars/catkin/catkin_tools.svg?style=flat&label=Star&maxAge=86400)]
 
-## [Bag files]
+https://catkin-tools.readthedocs.io/en/latest/verbs/catkin_build.html
+
+## [Bag files](#awesome-ros-tools)
 
