@@ -1,12 +1,12 @@
 # awesome-ros-tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 #### Table of Contents
-* [Build tools]
-* [  tools]
+* [Build tools](#awesome-ros-tools)
+* [Bag tools]
 
 The list of tools and packages for Robot Operating System development!
 
-## [Build tools]
+## [Build tools](#build-tools)
 
 ## [Bag files]
 
