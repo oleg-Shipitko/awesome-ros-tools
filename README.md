@@ -35,8 +35,8 @@ The list of tools and packages for Robot Operating System development!
 
 ## Simulators
 
-* [CARLA](https://carla.org/) - An open-source simulator for autonomous driving research [github](https://github.com/carla-simulator/carla) ![catkin_tools](https://img.shields.io/github/carla-simulator/carla.svg?style=flat&label=Star&maxAge=86400)
+* [CARLA](https://carla.org/) - An open-source simulator for autonomous driving research [github](https://github.com/carla-simulator/carla) ![CARLA](https://img.shields.io/github/carla-simulator/carla.svg?style=flat&label=Star&maxAge=86400)
 
 ## License
 
-[![License: CC](https://img.shields.io/badge/License-CC.svg)](https://creativecommons.org/publicdomain/zero/1.0//by-nc-sa/4.0/)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
