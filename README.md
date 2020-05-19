@@ -26,7 +26,6 @@ The list of tools and packages for Robot Operating System development!
 * [rosshow](https://github.com/dheera/rosshow) - Displays various sensor messages in a useful fashion using Unicode Braille art in the terminal ![rosshow](https://img.shields.io/github/stars/dheera/rosshow.svg?style=flat&label=Star&maxAge=86400)
 * [webviz](https://github.com/cruise-automation/webviz) - Web-based application for playback and visualization of ROS bag files. This repository also contains some libraries that can be used independently to build web-based visualization tools ![webviz](https://img.shields.io/github/stars/cruise-automation/webviz.svg?style=flat&label=Star&maxAge=86400)
 * [mapviz](https://github.com/swri-robotics/mapviz) - ROS based visualization tool with a plug-in system similar to RVIZ focused on visualizing 2D data ![mapviz](https://img.shields.io/github/stars/swri-robotics/mapviz.svg?style=flat&label=Star&maxAge=86400)
-
 ## Code testing
 
 * [hypothesis-ros](https://github.com/fkromer/hypothesis-ros) - Data generators for Property Based Testing and Fuzzy Testing of ROS nodes (Unmantained!) ![hypothesis-ros](https://img.shields.io/github/stars/fkromer/hypothesis-ros.svg?style=flat&label=Star&maxAge=86400)
