@@ -5,6 +5,7 @@ The list of tools and packages for Robot Operating System development!
 
 ## Table of Contents
 
+* [Best_practices](#best_practices)
 * [Build tools](#build-tools)
 * [Bag files](#bag-files)
 * [Visualization](#visualization)
@@ -12,6 +13,9 @@ The list of tools and packages for Robot Operating System development!
 * [Simulators](#simulators)
 * [Sensors](#sensors)
 
+## Best practices
+
+* [ros_best_practices](https://github.com/leggedrobotics/ros_best_practices) - Loose collection of best practices, conventions, and tricks for using the Robot Operating System (ROS). It builds up on the official ROS documentation and other resources and is meant as summary and overview ![ros_best_practices](https://img.shields.io/github/stars/leggedrobotics/ros_best_practices.svg?style=flat&label=Star&maxAge=86400)
 
 ## Build tools
 
