@@ -10,7 +10,7 @@ The list of tools and packages for Robot Operating System development!
 * [Bag files](#bag-files)
 * [Visualization](#visualization)
 * [Code testing](#code-testing)
-* [Simulators](#simulators)
+* [Simulation](#simulation)
 * [Sensors](#sensors)
 
 ## Best practices
@@ -42,9 +42,10 @@ The list of tools and packages for Robot Operating System development!
 * [ros1_fuzzer](https://github.com/aliasrobotics/ros1_fuzzer) - Fuzzer aims to help developers and researchers to find bugs and vulnerabilities in ROS nodes by performing fuzz tests over topics that the target nodes process ![ros1_fuzzer](https://img.shields.io/github/stars/aliasrobotics/ros1_fuzzer.svg?style=flat&label=Star&maxAge=86400) 
 * [roschaos](https://github.com/fkromer/roschaos) - Functionality for process reliability/fault recovery testing in ROS ![hypothesis-ros](https://img.shields.io/github/stars/fkromer/roschaos.svg?style=flat&label=Star&maxAge=86400)
 
-## Simulators
+## Simulation
 
 * [CARLA](https://carla.org/) - An open-source simulator for autonomous driving research [github](https://github.com/carla-simulator/carla) ![carla](https://img.shields.io/github/stars/carla-simulator/carla.svg?style=flat&label=Star&maxAge=86400)
+* [World Construction Tool](https://gitlab.com/LIRS_Projects/LIRS-WCT) - Automatic tool for gazebo world construction: from a grayscale image to a 3d solid model
 
 ## Sensors
 
