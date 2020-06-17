@@ -12,7 +12,7 @@ The list of tools and packages for Robot Operating System development!
 * [Code testing](#code-testing)
 * [Simulation](#simulation)
 * [Sensors](#sensors)
-* [Web] (#web)
+* [Web](#web)
 
 ## Best practices
 
