@@ -12,13 +12,13 @@ The list of tools and packages for Robot Operating System development!
 * [Code testing](#code-testing)
 * [Simulation](#simulation)
 * [Sensors](#sensors)
-* [Web](#web)
+* [Web tools](#web)
 
-## Best practices
+## Best Practices
 
 * [ros_best_practices](https://github.com/leggedrobotics/ros_best_practices) - Loose collection of best practices, conventions, and tricks for using the Robot Operating System (ROS). It builds up on the official ROS documentation and other resources and is meant as summary and overview ![ros_best_practices](https://img.shields.io/github/stars/leggedrobotics/ros_best_practices.svg?style=flat&label=Star&maxAge=86400)
 
-## Development tools
+## Development Tools
 
 * [catkin_tools](https://catkin-tools.readthedocs.io/en/latest/index.html) - Command line tools for working with catkin [github](https://github.com/catkin/catkin_tools) ![catkin_tools](https://img.shields.io/github/stars/catkin/catkin_tools.svg?style=flat&label=Star&maxAge=86400)
 * [ROSCpp Code Format](https://github.com/davetcoleman/roscpp_code_format) - The repo contains an auto formatting script for the [ROS C++ Style Guidelines](http://wiki.ros.org/CppStyleGuide) ![roscpp_code_format](https://img.shields.io/github/stars/davetcoleman/roscpp_code_format.svg?style=flat&label=Star&maxAge=86400)
@@ -38,7 +38,7 @@ The list of tools and packages for Robot Operating System development!
 * [rqt_multiplot_plugin](https://github.com/anybotics/rqt_multiplot_plugin) - GUI rqt plugin for visualizing numeric values in multiple 2D plots using the Qwt plotting backend ![rqt_multiplot_plugin](https://img.shields.io/github/stars/ANYbotics/rqt_multiplot_plugin.svg?style=flat&label=Star&maxAge=86400)
 * [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - QT5 based application to display time series in plots, using an intuitive "drag and drop" interface It can be used either to load static data from file or connect to live streaming of data ![PlotJuggler](https://img.shields.io/github/stars/facontidavide/PlotJuggler.svg?style=flat&label=Star&maxAge=86400)
 
-## Code testing
+## Code Testing
 
 * [hypothesis-ros](https://github.com/fkromer/hypothesis-ros) - Data generators for Property Based Testing and Fuzzy Testing of ROS nodes (Unmantained!) ![hypothesis-ros](https://img.shields.io/github/stars/fkromer/hypothesis-ros.svg?style=flat&label=Star&maxAge=86400)
 * [ros1_fuzzer](https://github.com/aliasrobotics/ros1_fuzzer) - Fuzzer aims to help developers and researchers to find bugs and vulnerabilities in ROS nodes by performing fuzz tests over topics that the target nodes process ![ros1_fuzzer](https://img.shields.io/github/stars/aliasrobotics/ros1_fuzzer.svg?style=flat&label=Star&maxAge=86400) 
@@ -53,7 +53,7 @@ The list of tools and packages for Robot Operating System development!
 
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers including Madgwick filter, Complementary filter and rviz IMU plugin for visualizing `sensor_msgs::Imu` messages ![imu_tools](https://img.shields.io/github/stars/ccny-ros-pkg/imu_tools.svg?style=flat&label=Star&maxAge=86400)
 
-## Web
+## Web Tools
 * [Robot Web Tools](http://robotwebtools.org/index.html) - Robot web tools is a collection of open-source modules and tools for building web-based robot apps.
 
 ## License
