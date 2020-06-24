@@ -6,7 +6,7 @@ The list of tools and packages for Robot Operating System development!
 ## Table of Contents
 
 * [Best practices](#best_practices)
-* [Build tools](#build-tools)
+* [Development tools](#development-tools)
 * [Bag files](#bag-files)
 * [Visualization](#visualization)
 * [Code testing](#code-testing)
@@ -18,9 +18,10 @@ The list of tools and packages for Robot Operating System development!
 
 * [ros_best_practices](https://github.com/leggedrobotics/ros_best_practices) - Loose collection of best practices, conventions, and tricks for using the Robot Operating System (ROS). It builds up on the official ROS documentation and other resources and is meant as summary and overview ![ros_best_practices](https://img.shields.io/github/stars/leggedrobotics/ros_best_practices.svg?style=flat&label=Star&maxAge=86400)
 
-## Build tools
+## Development tools
 
 * [catkin_tools](https://catkin-tools.readthedocs.io/en/latest/index.html) - Command line tools for working with catkin [github](https://github.com/catkin/catkin_tools) ![catkin_tools](https://img.shields.io/github/stars/catkin/catkin_tools.svg?style=flat&label=Star&maxAge=86400)
+* [ROSCpp Code Format](https://github.com/davetcoleman/roscpp_code_format) - The repo contains an auto formatting script for the [ROS C++ Style Guidelines](http://wiki.ros.org/CppStyleGuide) ![roscpp_code_format](https://img.shields.io/github/stars/davetcoleman/roscpp_code_format.svg?style=flat&label=Star&maxAge=86400)
 
 ## Bag files
 
@@ -53,7 +54,7 @@ The list of tools and packages for Robot Operating System development!
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers including Madgwick filter, Complementary filter and rviz IMU plugin for visualizing `sensor_msgs::Imu` messages ![imu_tools](https://img.shields.io/github/stars/ccny-ros-pkg/imu_tools.svg?style=flat&label=Star&maxAge=86400)
 
 ## Web
-[Robot Web Tools](http://robotwebtools.org/index.html) - Robot web tools is a collection of open-source modules and tools for building web-based robot apps.
+* [Robot Web Tools](http://robotwebtools.org/index.html) - Robot web tools is a collection of open-source modules and tools for building web-based robot apps.
 
 ## License
 
