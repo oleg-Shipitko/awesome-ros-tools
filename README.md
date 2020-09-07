@@ -28,7 +28,7 @@ The list of tools and packages for Robot Operating System development!
 * [rosbag_fancy](https://github.com/xqms/rosbag_fancy) - Fancy terminal UI frontend for the venerable rosbag tool ![rosbag_fancy](https://img.shields.io/github/stars/xqms/rosbag_fancy.svg?style=flat&label=Star&maxAge=86400)
 * [rosbag-sliding-windows-annotator](https://github.com/ewerlopes/rosbag-sliding-windows-annotator) - Providing a way to annotate rosbag files by using the method of sliding windows (use a video image topic as a guide for tagging numerical data) ![rosbag-sliding-windows-annotator](https://img.shields.io/github/stars/ewerlopes/rosbag-sliding-windows-annotator.svg?style=flat&label=Star&maxAge=86400)
 * [rosbag_editor](https://github.com/facontidavide/rosbag_editor) - GUI-app to remove one or more topics from a rosbag, change the duration of the rosbag, rename a topic, change the compression type etc. ![rosbag_editor](https://img.shields.io/github/stars/facontidavide/rosbag_editor.svg?style=flat&label=Star&maxAge=86400)
-
+* [bag-database](https://github.com/swri-robotics/bag-database) - web-based application that monitors a directory for ROS bag files, parses their metadata, and provides a friendly web interface for searching for bags and downloading them. Its goal is to make it easy to catalog thousands of bag files, search through them for relevant data such as topic names and message types, view information about them, and download them. ![bag-database](https://img.shields.io/github/stars/swri-robotics/bag-database.svg?style=flat&label=Star&maxAge=86400)
 
 ## Visualization
 
