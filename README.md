@@ -32,7 +32,7 @@ The list of tools and packages for Robot Operating System development!
 * [rbb_core](https://github.com/AMZ-Driverless/rbb_core) - a tool to index/visualize/manage rosbags on remote storage systems. Additionally it provides a web interface and framework for automated simulations. ![rbb_core-database](https://img.shields.io/github/stars/AMZ-Driverless/rbb_core.svg?style=flat&label=Star&maxAge=86400)
 * [marv-robotics](https://github.com/KITcar-Team/marv-robotics) - MARV Robotics is an extensible data management platform for robot logs. New robot logs are found by a scanner and configured nodes are run to extract, filter and process data from them. The robot logs are visualized in a web-based application that features a listing view with filters and summary, and detail views of individual log files. ![marv-robotics](https://img.shields.io/github/stars/KITcar-Team/marv-robotics.svg?style=flat&label=Star&maxAge=86400)
 * [RosbagPandas](https://github.com/aktaylor08/RosbagPandas) - create Python pandas data frame from a ros bag file. ![RosbagPandas](https://img.shields.io/github/stars/aktaylor08/RosbagPandas.svg?style=flat&label=Star&maxAge=86400)
-* [rosbag_metadata](https://github.com//uscresl/rosbag_metadata) - tool for collecting and writing metadata to ROS bagfiles or to accompanying yaml files. ![RosbagPandas](https://img.shields.io/github/stars//uscresl/rosbag_metadata.svg?style=flat&label=Star&maxAge=86400)
+* [rosbag_metadata](https://github.com//uscresl/rosbag_metadata) - tool for collecting and writing metadata to ROS bagfiles or to accompanying yaml files. ![rosbag_metadata](https://img.shields.io/github/stars//uscresl/rosbag_metadata.svg?style=flat&label=Star&maxAge=86400)
 
 ## Visualization
 
