@@ -16,12 +16,13 @@ The list of tools and packages for Robot Operating System development!
 
 ## Best Practices
 
-* [ros_best_practices](https://github.com/leggedrobotics/ros_best_practices) - Loose collection of best practices, conventions, and tricks for using the Robot Operating System (ROS). It builds up on the official ROS documentation and other resources and is meant as summary and overview ![ros_best_practices](https://img.shields.io/github/stars/leggedrobotics/ros_best_practices.svg?style=flat&label=Star&maxAge=86400)
+* [ros_best_practices](https://github.com/leggedrobotics/ros_best_practices) - loose collection of best practices, conventions, and tricks for using the Robot Operating System (ROS). It builds up on the official ROS documentation and other resources and is meant as summary and overview ![ros_best_practices](https://img.shields.io/github/stars/leggedrobotics/ros_best_practices.svg?style=flat&label=Star&maxAge=86400)
 
 ## Development Tools
 
-* [catkin_tools](https://catkin-tools.readthedocs.io/en/latest/index.html) - Command line tools for working with catkin [github](https://github.com/catkin/catkin_tools) ![catkin_tools](https://img.shields.io/github/stars/catkin/catkin_tools.svg?style=flat&label=Star&maxAge=86400)
-* [ROSCpp Code Format](https://github.com/davetcoleman/roscpp_code_format) - The repo contains an auto formatting script for the [ROS C++ Style Guidelines](http://wiki.ros.org/CppStyleGuide) ![roscpp_code_format](https://img.shields.io/github/stars/davetcoleman/roscpp_code_format.svg?style=flat&label=Star&maxAge=86400)
+* [catkin_tools](https://catkin-tools.readthedocs.io/en/latest/index.html) - command line tools for working with catkin [github](https://github.com/catkin/catkin_tools) ![catkin_tools](https://img.shields.io/github/stars/catkin/catkin_tools.svg?style=flat&label=Star&maxAge=86400)
+* [ROSCpp Code Format](https://github.com/davetcoleman/roscpp_code_format) - the repo contains an auto formatting script for the [ROS C++ Style Guidelines](http://wiki.ros.org/CppStyleGuide) ![roscpp_code_format](https://img.shields.io/github/stars/davetcoleman/roscpp_code_format.svg?style=flat&label=Star&maxAge=86400)
+* [swri_profiler](https://github.com/swri-robotics/swri_profiler) - is a lightweight profiling framework for C++ ROS nodes. It allows you to selectively measure how much time is spent in various scopes. Profiling data is generated and published to a ROS topic where it can be recorded or monitored in real time. The profiler was designed to be lightweight enough that it can be left in during normal operation so that performance data can be monitored at any time.(http://wiki.ros.org/CppStyleGuide) ![swri_profiler](https://img.shields.io/github/stars/swri-robotics/swri_profiler.svg?style=flat&label=Star&maxAge=86400)
 
 ## Bag files
 
@@ -44,13 +45,13 @@ The list of tools and packages for Robot Operating System development!
 
 ## Code Testing
 
-* [hypothesis-ros](https://github.com/fkromer/hypothesis-ros) - Data generators for Property Based Testing and Fuzzy Testing of ROS nodes (Unmantained!) ![hypothesis-ros](https://img.shields.io/github/stars/fkromer/hypothesis-ros.svg?style=flat&label=Star&maxAge=86400)
+* [hypothesis-ros](https://github.com/fkromer/hypothesis-ros) - data generators for Property Based Testing and Fuzzy Testing of ROS nodes (Unmantained!) ![hypothesis-ros](https://img.shields.io/github/stars/fkromer/hypothesis-ros.svg?style=flat&label=Star&maxAge=86400)
 * [ros1_fuzzer](https://github.com/aliasrobotics/ros1_fuzzer) - Fuzzer aims to help developers and researchers to find bugs and vulnerabilities in ROS nodes by performing fuzz tests over topics that the target nodes process ![ros1_fuzzer](https://img.shields.io/github/stars/aliasrobotics/ros1_fuzzer.svg?style=flat&label=Star&maxAge=86400) 
-* [roschaos](https://github.com/fkromer/roschaos) - Functionality for process reliability/fault recovery testing in ROS ![hypothesis-ros](https://img.shields.io/github/stars/fkromer/roschaos.svg?style=flat&label=Star&maxAge=86400)
+* [roschaos](https://github.com/fkromer/roschaos) - functionality for process reliability/fault recovery testing in ROS ![hypothesis-ros](https://img.shields.io/github/stars/fkromer/roschaos.svg?style=flat&label=Star&maxAge=86400)
 
 ## Simulation
 
-* [CARLA](https://carla.org/) - An open-source simulator for autonomous driving research [github](https://github.com/carla-simulator/carla) ![carla](https://img.shields.io/github/stars/carla-simulator/carla.svg?style=flat&label=Star&maxAge=86400)
+* [CARLA](https://carla.org/) - an open-source simulator for autonomous driving research [github](https://github.com/carla-simulator/carla) ![carla](https://img.shields.io/github/stars/carla-simulator/carla.svg?style=flat&label=Star&maxAge=86400)
 * [World Construction Tool](https://gitlab.com/LIRS_Projects/LIRS-WCT) - Automatic tool for gazebo world construction: from a grayscale image to a 3d solid model
 
 ## Sensors
@@ -58,7 +59,7 @@ The list of tools and packages for Robot Operating System development!
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers including Madgwick filter, Complementary filter and rviz IMU plugin for visualizing `sensor_msgs::Imu` messages ![imu_tools](https://img.shields.io/github/stars/ccny-ros-pkg/imu_tools.svg?style=flat&label=Star&maxAge=86400)
 
 ## Web Tools
-* [Robot Web Tools](http://robotwebtools.org/index.html) - Robot web tools is a collection of open-source modules and tools for building web-based robot apps.
+* [Robot Web Tools](http://robotwebtools.org/index.html) - robot web tools is a collection of open-source modules and tools for building web-based robot apps.
 
 ## License
 
