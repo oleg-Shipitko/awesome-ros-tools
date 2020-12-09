@@ -13,6 +13,7 @@ The list of tools and packages for Robot Operating System development!
 * [Simulation](#simulation)
 * [Sensors](#sensors)
 * [Web tools](#web-tools)
+* [Other](#other)
 
 ## Best Practices
 
@@ -53,19 +54,25 @@ The list of tools and packages for Robot Operating System development!
 * [ros1_fuzzer](https://github.com/aliasrobotics/ros1_fuzzer) - Fuzzer aims to help developers and researchers to find bugs and vulnerabilities in ROS nodes by performing fuzz tests over topics that the target nodes process ![ros1_fuzzer](https://img.shields.io/github/stars/aliasrobotics/ros1_fuzzer.svg?style=flat&label=Star&maxAge=86400) 
 * [roschaos](https://github.com/fkromer/roschaos) - functionality for process reliability/fault recovery testing in ROS ![hypothesis-ros](https://img.shields.io/github/stars/fkromer/roschaos.svg?style=flat&label=Star&maxAge=86400)
 * [code_coverage](https://github.com/mikeferguson/code_coverage) - ROS package to run coverage testing. [Introduction.](http://www.robotandchisel.com/2020/04/07/code-coverage-for-ros/) ![code_coverage](https://img.shields.io/github/stars/mikeferguson/code_coverage.svg?style=flat&label=Star&maxAge=86400)
-* [Ros-Test-Example](https://github.com/steup/Ros-Test-Example) - A ROS Workspace containing an example car simulation to show GTest and Rostest. ![Ros-Test-Example](https://img.shields.io/github/stars/steup/Ros-Test-Example.svg?style=flat&label=Star&maxAge=86400)
+* [Ros-Test-Example](https://github.com/steup/Ros-Test-Example) - a ROS Workspace containing an example car simulation to show GTest and Rostest. ![Ros-Test-Example](https://img.shields.io/github/stars/steup/Ros-Test-Example.svg?style=flat&label=Star&maxAge=86400)
 
 ## Simulation
 
-* [CARLA](https://carla.org/) - an open-source simulator for autonomous driving research [github](https://github.com/carla-simulator/carla) ![carla](https://img.shields.io/github/stars/carla-simulator/carla.svg?style=flat&label=Star&maxAge=86400)
-* [World Construction Tool](https://gitlab.com/LIRS_Projects/LIRS-WCT) - Automatic tool for gazebo world construction: from a grayscale image to a 3d solid model
+* [CARLA](https://carla.org/) - an open-source simulator for autonomous driving research. [github](https://github.com/carla-simulator/carla) ![carla](https://img.shields.io/github/stars/carla-simulator/carla.svg?style=flat&label=Star&maxAge=86400)
+* [World Construction Tool](https://gitlab.com/LIRS_Projects/LIRS-WCT) - automatic tool for gazebo world construction: from a grayscale image to a 3d solid model.
 
 ## Sensors
 
-* [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers including Madgwick filter, Complementary filter and rviz IMU plugin for visualizing `sensor_msgs::Imu` messages ![imu_tools](https://img.shields.io/github/stars/ccny-ros-pkg/imu_tools.svg?style=flat&label=Star&maxAge=86400)
+* [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers including Madgwick filter, Complementary filter and rviz IMU plugin for visualizing `sensor_msgs::Imu` messages. ![imu_tools](https://img.shields.io/github/stars/ccny-ros-pkg/imu_tools.svg?style=flat&label=Star&maxAge=86400)
 
 ## Web Tools
+
 * [Robot Web Tools](http://robotwebtools.org/index.html) - robot web tools is a collection of open-source modules and tools for building web-based robot apps.
+* [web_video_server](https://github.com/fRobotWebTools/web_video_server) - HTTP Streaming of ROS Image Topics in Multiple Formats. ![web_video_server](https://img.shields.io/github/stars/RobotWebTools/web_video_server.svg?style=flat&label=Star&maxAge=86400)
+
+## Other
+
+* [multimaster_fkie](https://github.com/fkie/multimaster_fkie) - the ROS stack of fkie_multimaster offers a complete solution for using ROS with multicores. In addition, Node Manager with a daemon provide a GUI-based management environment that is very useful to manage ROS-launch configurations and control running nodes, also in a single-core system. ![multimaster_fkie](https://img.shields.io/github/stars/fkie/multimaster_fkie.svg?style=flat&label=Star&maxAge=86400)
 
 ## License
 
