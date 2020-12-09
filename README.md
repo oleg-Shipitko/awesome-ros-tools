@@ -43,6 +43,8 @@ The list of tools and packages for Robot Operating System development!
 * [mapviz](https://github.com/swri-robotics/mapviz) - ROS based visualization tool with a plug-in system similar to RVIZ focused on visualizing 2D data ![mapviz](https://img.shields.io/github/stars/swri-robotics/mapviz.svg?style=flat&label=Star&maxAge=86400)
 * [rqt_multiplot_plugin](https://github.com/anybotics/rqt_multiplot_plugin) - GUI rqt plugin for visualizing numeric values in multiple 2D plots using the Qwt plotting backend ![rqt_multiplot_plugin](https://img.shields.io/github/stars/ANYbotics/rqt_multiplot_plugin.svg?style=flat&label=Star&maxAge=86400)
 * [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - QT5 based application to display time series in plots, using an intuitive "drag and drop" interface It can be used either to load static data from file or connect to live streaming of data ![PlotJuggler](https://img.shields.io/github/stars/facontidavide/PlotJuggler.svg?style=flat&label=Star&maxAge=86400)
+* [rviz_satellite](https://github.com/gareth-cross/rviz_satellite) - Plugin for rviz for displaying satellite maps loaded from the internet. ![rviz_satellite](https://img.shields.io/github/stars/gareth-cross/rviz_satellite.svg?style=flat&label=Star&maxAge=86400)
+
 
 ## Code Testing
 
