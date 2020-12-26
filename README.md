@@ -37,6 +37,7 @@ The list of tools and packages for Robot Operating System development!
 * [RosbagPandas](https://github.com/aktaylor08/RosbagPandas) - create Python pandas data frame from a ros bag file. ![RosbagPandas](https://img.shields.io/github/stars/aktaylor08/RosbagPandas.svg?style=flat&label=Star&maxAge=86400)
 * [rosbag_metadata](https://github.com/hordurk/rosbag_metadata) - tool for collecting and writing metadata to ROS bagfiles or to accompanying yaml files. ![rosbag_metadata](https://img.shields.io/github/stars/hordurk/rosbag_metadata.svg?style=flat&label=Star&maxAge=86400)
 * [bag_tools](https://github.com/srv/srv_tools) - set of useful bag processing tools (make_video from topic, change_frame_id, change_camera_info, extract_stereo_images etc.). [bag_tools Wiki](https://wiki.ros.org/bag_tools?distro=kinetic#make_video.py). ![bag_tools](https://img.shields.io/github/stars/srv/srv_tools.svg?style=flat&label=Star&maxAge=86400)
+* [rosbag_compress](https://github.com/AtsushiSakai/rosbag_compress) - a python command line tool for compression or decompression of multiple ROS bag files. This tool searchs bag files recrusively,compress or compress them at same time. It is executed in parallel process, so the task is done fastly.. ![rosbag_compress](https://img.shields.io/github/stars/AtsushiSakai/rosbag_compress.svg?style=flat&label=Star&maxAge=86400)
 
 ## Visualization
 
