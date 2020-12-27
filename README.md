@@ -75,6 +75,7 @@ The list of tools and packages for Robot Operating System development!
 ## Other
 
 * [multimaster_fkie](https://github.com/fkie/multimaster_fkie) - the ROS stack of fkie_multimaster offers a complete solution for using ROS with multicores. In addition, Node Manager with a daemon provide a GUI-based management environment that is very useful to manage ROS-launch configurations and control running nodes, also in a single-core system. ![multimaster_fkie](https://img.shields.io/github/stars/fkie/multimaster_fkie.svg?style=flat&label=Star&maxAge=86400)
+* [rosmon](https://github.com/xqms/rosmon) - rosmon is a drop-in replacement for the standard roslaunch tool. Rather unlike roslaunch, rosmon is focused on (remote) process monitoring. [rosmon Wiki](http://wiki.ros.org/rosmon). ![rosmon](https://img.shields.io/github/stars/xqms/rosmon.svg?style=flat&label=Star&maxAge=86400)
 
 ## License
 
