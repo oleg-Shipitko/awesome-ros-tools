@@ -31,8 +31,10 @@ The list of tools and packages for Robot Operating System development!
 * [ROS Logs & ELK Stack](https://github.com/karadalex/roslogs-elk-docker) - demo of collecting ROS Logs (from ROS Containers) with Filebeat which are then sent to Logstash indexed by Elasticsearch and can then be viewed and visualized at Kibana. All logs are stored in the roslogs volume. ![ROS Logs & ELK Stack](https://img.shields.io/github/stars/karadalex/roslogs-elk-docker.svg?style=flat&label=Star&maxAge=86400)
 
 ### Documentation
+
 * [rosdoc_lite](http://wiki.ros.org/rosdoc_lite) - ROS package wraps documentation tools like doxygen, sphinx, and epydoc, making it convenient to generate ROS package documentation. It also generates online documentation for the ROS wiki. [github](https://github.com/ros-infrastructure/rosdoc_lite). ![rosdoc_lite](https://img.shields.io/github/stars/ros-infrastructure/rosdoc_lite.svg?style=flat&label=Star&maxAge=86400)
 * [rosautodoc](https://github.com/bponsler/rosautodoc) - the rosautodoc project provides a python executable that can automatically generate documentation for ROS nodes that are running on the system. ![rosautodoc](https://img.shields.io/github/stars/bponsler/rosautodoc.svg?style=flat&label=Star&maxAge=86400)
+* [roslaunch_to_dot](https://github.com/bponsler/roslaunch_to_dot) - convert a roslaunch XML file into a dot file containing a graph of the launch tree. ![roslaunch_to_dot](https://img.shields.io/github/stars/bponsler/roslaunch_to_dot.svg?style=flat&label=Star&maxAge=86400)
 
 ## Bag files
 
