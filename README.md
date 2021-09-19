@@ -18,6 +18,7 @@ The list of tools and packages for Robot Operating System development!
 ## Best Practices
 
 * [ros_best_practices](https://github.com/leggedrobotics/ros_best_practices) - loose collection of best practices, conventions, and tricks for using the Robot Operating System (ROS). It builds up on the official ROS documentation and other resources and is meant as summary and overview ![ros_best_practices](https://img.shields.io/github/stars/leggedrobotics/ros_best_practices.svg?style=flat&label=Star&maxAge=86400)
+* [ROS Hacks Repo](https://github.com/yossioo/ROS-Hacks) - the repository is designed to make ROS developer's life easier. After the installation usefull aliases and functions will be added to the terminal.  ![ROS Hacks Repo](https://img.shields.io/github/stars/yossioo/ROS-Hacks.svg?style=flat&label=Star&maxAge=86400)
 
 ## Development Tools
 
