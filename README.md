@@ -63,11 +63,12 @@ The list of tools and packages for Robot Operating System development!
 
 * [CARLA](https://carla.org/) - an open-source simulator for autonomous driving research. [github](https://github.com/carla-simulator/carla) ![carla](https://img.shields.io/github/stars/carla-simulator/carla.svg?style=flat&label=Star&maxAge=86400)
 * [World Construction Tool](https://gitlab.com/LIRS_Projects/LIRS-WCT) - automatic tool for gazebo world construction: from a grayscale image to a 3d solid model.
-* [Dataset of Gazebo Worlds Models and Maps](https://github.com/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps) - automatic tool for gazebo world construction: from a grayscale image to a 3d solid model. ![Dataset of Gazebo Worlds Models and Maps](https://img.shields.io/github/stars/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps.svg?style=flat&label=Star&maxAge=86400)
+* [Dataset of Gazebo Worlds Models and Maps](https://github.com/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps) - a set of Gazebo worlds models and maps. ![Dataset of Gazebo Worlds Models and Maps](https://img.shields.io/github/stars/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps.svg?style=flat&label=Star&maxAge=86400)
 
 ## Sensors
 
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers including Madgwick filter, Complementary filter and rviz IMU plugin for visualizing `sensor_msgs::Imu` messages. ![imu_tools](https://img.shields.io/github/stars/ccny-ros-pkg/imu_tools.svg?style=flat&label=Star&maxAge=86400)
+* [ros_imu_covariance_calculator](https://github.com/Myzhar/ros_imu_covariance_calculator) - ROS Package to estimate the variance of the inertial data from an IMU to be used to populate the error covariance matrix. ![ros_imu_covariance_calculator](https://img.shields.io/github/stars/Myzhar/ros_imu_covariance_calculator.svg?style=flat&label=Star&maxAge=86400)
 
 ## Web Tools
 
