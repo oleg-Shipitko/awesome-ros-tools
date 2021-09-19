@@ -7,6 +7,7 @@ The list of tools and packages for Robot Operating System development!
 
 * [Best practices](#best_practices)
 * [Development tools](#development-tools)
+ * [Documentatition](#documentatition)  
 * [Bag files](#bag-files)
 * [Visualization](#visualization)
 * [Code testing](#code-testing)
@@ -28,6 +29,10 @@ The list of tools and packages for Robot Operating System development!
 * [swri_profiler](https://github.com/swri-robotics/swri_profiler) - is a lightweight profiling framework for C++ ROS nodes. It allows you to selectively measure how much time is spent in various scopes. Profiling data is generated and published to a ROS topic where it can be recorded or monitored in real time. The profiler was designed to be lightweight enough that it can be left in during normal operation so that performance data can be monitored at any time. ![swri_profiler](https://img.shields.io/github/stars/swri-robotics/swri_profiler.svg?style=flat&label=Star&maxAge=86400)
 * [pal_statistics](https://github.com/pal-robotics/pal_statistics) - provides a way of gathering, aggregating, storing and visualizing statistics from arbitrary sources in a flexible and real-time safe way in ROS. From internal variables values to high level statistics about, but not limited to, robot performance [pal_statistics Wiki](http://wiki.ros.org/pal_statistics). ![pal_statistics](https://img.shields.io/github/stars/pal-robotics/pal_statistics.svg?style=flat&label=Star&maxAge=86400)
 * [ROS Logs & ELK Stack](https://github.com/karadalex/roslogs-elk-docker) - demo of collecting ROS Logs (from ROS Containers) with Filebeat which are then sent to Logstash indexed by Elasticsearch and can then be viewed and visualized at Kibana. All logs are stored in the roslogs volume. ![ROS Logs & ELK Stack](https://img.shields.io/github/stars/karadalex/roslogs-elk-docker.svg?style=flat&label=Star&maxAge=86400)
+
+### Documentation
+* [rosdoc_lite](http://wiki.ros.org/rosdoc_lite) - ROS package wraps documentation tools like doxygen, sphinx, and epydoc, making it convenient to generate ROS package documentation. It also generates online documentation for the ROS wiki. [github](https://github.com/ros-infrastructure/rosdoc_lite). ![rosdoc_lite](https://img.shields.io/github/stars/ros-infrastructure/rosdoc_lite.svg?style=flat&label=Star&maxAge=86400)
+* [rosautodoc](https://github.com/bponsler/rosautodoc) - the rosautodoc project provides a python executable that can automatically generate documentation for ROS nodes that are running on the system. ![rosautodoc](https://img.shields.io/github/stars/bponsler/rosautodoc.svg?style=flat&label=Star&maxAge=86400)
 
 ## Bag files
 
