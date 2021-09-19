@@ -12,7 +12,7 @@ The list of tools and packages for Robot Operating System development!
 * [Code testing](#code-testing)
 * [Simulation](#simulation)
 * [Hardware](#hardware)
-* [Sensors](#sensors)
+*   [Sensors](#sensors)
 * [Web tools](#web-tools)
 * [Other](#other)
 
@@ -68,7 +68,7 @@ The list of tools and packages for Robot Operating System development!
 
 ## Hardware
 
-* [OpenCR](https://github.com/ROBOTIS-GIT/OpenCR/) - Open Source Control Module for ROS. OpenCR is developed for ROS embedded systems to provide completely open-source hardware and software. ![OpenCR](https://img.shields.io/github/stars/ROBOTIS-GIT/OpenCR/.svg?style=flat&label=Star&maxAge=86400)
+* [OpenCR](https://github.com/ROBOTIS-GIT/OpenCR/) - Open Source Control Module for ROS. OpenCR is developed for ROS embedded systems to provide completely open-source hardware and software. ![OpenCR](https://img.shields.io/github/stars/ROBOTIS-GIT/OpenCR.svg?style=flat&label=Star&maxAge=86400)
 
 ### Sensors
 
