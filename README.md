@@ -7,7 +7,7 @@ The list of tools and packages for Robot Operating System development!
 
 * [Best practices](#best_practices)
 * [Development tools](#development-tools)
- * [Documentatition](#documentatition)  
+  * [Documentation](#documentation)  
 * [Bag files](#bag-files)
 * [Visualization](#visualization)
 * [Code testing](#code-testing)
