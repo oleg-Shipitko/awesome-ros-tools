@@ -63,6 +63,7 @@ The list of tools and packages for Robot Operating System development!
 
 * [CARLA](https://carla.org/) - an open-source simulator for autonomous driving research. [github](https://github.com/carla-simulator/carla) ![carla](https://img.shields.io/github/stars/carla-simulator/carla.svg?style=flat&label=Star&maxAge=86400)
 * [World Construction Tool](https://gitlab.com/LIRS_Projects/LIRS-WCT) - automatic tool for gazebo world construction: from a grayscale image to a 3d solid model.
+* [Dataset of Gazebo Worlds Models and Maps](https://github.com/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps) - automatic tool for gazebo world construction: from a grayscale image to a 3d solid model. ![Dataset of Gazebo Worlds Models and Maps](https://img.shields.io/github/stars/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps.svg?style=flat&label=Star&maxAge=86400)
 
 ## Sensors
 
