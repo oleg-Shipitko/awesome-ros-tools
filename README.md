@@ -11,6 +11,7 @@ The list of tools and packages for Robot Operating System development!
 * [Visualization](#visualization)
 * [Code testing](#code-testing)
 * [Simulation](#simulation)
+* [Hardware](#hardware)
 * [Sensors](#sensors)
 * [Web tools](#web-tools)
 * [Other](#other)
@@ -65,7 +66,11 @@ The list of tools and packages for Robot Operating System development!
 * [World Construction Tool](https://gitlab.com/LIRS_Projects/LIRS-WCT) - automatic tool for gazebo world construction: from a grayscale image to a 3d solid model.
 * [Dataset of Gazebo Worlds Models and Maps](https://github.com/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps) - a set of Gazebo worlds models and maps. ![Dataset of Gazebo Worlds Models and Maps](https://img.shields.io/github/stars/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps.svg?style=flat&label=Star&maxAge=86400)
 
-## Sensors
+## Hardware
+
+* [OpenCR](https://github.com/ROBOTIS-GIT/OpenCR/) - Open Source Control Module for ROS. OpenCR is developed for ROS embedded systems to provide completely open-source hardware and software. ![OpenCR](https://img.shields.io/github/stars/ROBOTIS-GIT/OpenCR/.svg?style=flat&label=Star&maxAge=86400)
+
+### Sensors
 
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers including Madgwick filter, Complementary filter and rviz IMU plugin for visualizing `sensor_msgs::Imu` messages. ![imu_tools](https://img.shields.io/github/stars/ccny-ros-pkg/imu_tools.svg?style=flat&label=Star&maxAge=86400)
 * [ros_imu_covariance_calculator](https://github.com/Myzhar/ros_imu_covariance_calculator) - ROS Package to estimate the variance of the inertial data from an IMU to be used to populate the error covariance matrix. ![ros_imu_covariance_calculator](https://img.shields.io/github/stars/Myzhar/ros_imu_covariance_calculator.svg?style=flat&label=Star&maxAge=86400)
