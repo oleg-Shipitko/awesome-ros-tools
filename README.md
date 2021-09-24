@@ -83,12 +83,12 @@ The list of tools and packages for Robot Operating System development!
 * [imu_tools](https://github.com/ccny-ros-pkg/imu_tools) - IMU-related filters and visualizers including Madgwick filter, Complementary filter and rviz IMU plugin for visualizing `sensor_msgs::Imu` messages. ![imu_tools](https://img.shields.io/github/stars/ccny-ros-pkg/imu_tools.svg?style=flat&label=Star&maxAge=86400)
 * [ros_imu_covariance_calculator](https://github.com/Myzhar/ros_imu_covariance_calculator) - ROS Package to estimate the variance of the inertial data from an IMU to be used to populate the error covariance matrix. ![ros_imu_covariance_calculator](https://img.shields.io/github/stars/Myzhar/ros_imu_covariance_calculator.svg?style=flat&label=Star&maxAge=86400)
 * [kalibr](https://github.com/ethz-asl/kalibr) - Kalibr is a toolbox that solves the following calibration problems:
-1. **Multiple camera calibration**: 
-    intrinsic and extrinsic calibration of a camera-systems with non-globally shared overlapping fields of view
-1. **Visual-inertial calibration calibration (camera-IMU)**:
-    spatial and temporal calibration of an IMU w.r.t a camera-system
-1. **Rolling Shutter Camera calibration**:
-    full intrinsic calibration (projection, distortion and shutter parameters) of rolling shutter cameras. ![kalibr](https://img.shields.io/github/stars/ethz-asl/kalibr.svg?style=flat&label=Star&maxAge=86400)
+     1. **Multiple camera calibration**: 
+         intrinsic and extrinsic calibration of a camera-systems with non-globally shared overlapping fields of view
+     1. **Visual-inertial calibration calibration (camera-IMU)**:
+         spatial and temporal calibration of an IMU w.r.t a camera-system
+     1. **Rolling Shutter Camera calibration**:
+         full intrinsic calibration (projection, distortion and shutter parameters) of rolling shutter cameras. ![kalibr](https://img.shields.io/github/stars/ethz-asl/kalibr.svg?style=flat&label=Star&maxAge=86400)
 
 ## Web Tools
 
