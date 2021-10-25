@@ -30,6 +30,8 @@ The list of tools and packages for Robot Operating System development!
 * [pal_statistics](https://github.com/pal-robotics/pal_statistics) - provides a way of gathering, aggregating, storing and visualizing statistics from arbitrary sources in a flexible and real-time safe way in ROS. From internal variables values to high level statistics about, but not limited to, robot performance [pal_statistics Wiki](http://wiki.ros.org/pal_statistics). ![pal_statistics](https://img.shields.io/github/stars/pal-robotics/pal_statistics.svg?style=flat&label=Star&maxAge=86400)
 * [ROS Logs & ELK Stack](https://github.com/karadalex/roslogs-elk-docker) - demo of collecting ROS Logs (from ROS Containers) with Filebeat which are then sent to Logstash indexed by Elasticsearch and can then be viewed and visualized at Kibana. All logs are stored in the roslogs volume. ![ROS Logs & ELK Stack](https://img.shields.io/github/stars/karadalex/roslogs-elk-docker.svg?style=flat&label=Star&maxAge=86400)
 * [ros2-migration-tools](https://github.com/awslabs/ros2-migration-tools) - contains a set of tools for migrating a ROS1 package to a ROS2 package. The C++ source code migration uses libclang8 and its corresponding python bindings. ![ros2-migration-tools](https://img.shields.io/github/stars/awslabs/ros2-migration-tools.svg?style=flat&label=Star&maxAge=86400)
+* [ ROS Qt Creator Plug-in](https://ros-qtc-plugin.readthedocs.io/en/latest/index.html) - plug-in for Qt Creator to work with ROS workspaces, analyse performance and debug code. 
+
 
 ### Documentation
 
