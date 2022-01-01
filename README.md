@@ -97,6 +97,7 @@ The list of tools and packages for Robot Operating System development!
 
 * [Robot Web Tools](http://robotwebtools.org/index.html) - robot web tools is a collection of open-source modules and tools for building web-based robot apps.
 * [web_video_server](https://github.com/RobotWebTools/web_video_server) - HTTP Streaming of ROS Image Topics in Multiple Formats. ![web_video_server](https://img.shields.io/github/stars/RobotWebTools/web_video_server.svg?style=flat&label=Star&maxAge=86400)
+* [ros_rtsp](https://github.com/CircusMonkey/ros_rtsp) - ROS package to subscribe to an ROS Image topic (and as many other video sources as you want) and serve it up as a RTSP video feed with different mount points. Should provide a real-time video feed (or as close as possible). ![ros_rtsp](https://img.shields.io/github/stars/CircusMonkey/ros_rtsp.svg?style=flat&label=Star&maxAge=86400)
 
 ## Other
 
