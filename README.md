@@ -79,10 +79,13 @@ The list of tools and packages for Robot Operating System development!
 * [World Construction Tool](https://gitlab.com/LIRS_Projects/LIRS-WCT) - automatic tool for gazebo world construction: from a grayscale image to a 3d solid model.
 * [Dataset of Gazebo Worlds Models and Maps](https://github.com/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps) - a set of Gazebo worlds models and maps. ![Dataset of Gazebo Worlds Models and Maps](https://img.shields.io/github/stars/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps.svg?style=flat&label=Star&maxAge=86400)
 * [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity including integration with ROS. ![Unity Robotics Hub](https://img.shields.io/github/stars/Unity-Technologies/Unity-Robotics-Hub.svg?style=flat&label=Star&maxAge=86400)
+* [xmacro](https://github.com/gezp/xmacro) - looks like a simplified version of ros/xacro, it's simpler, but it works well both for urdf and sdf. In addition it's flexible, and also easy to use. ![xmacro](https://img.shields.io/github/stars/gezp/xmacro.svg?style=flat&label=Star&maxAge=86400)
+
 
 ## Hardware
 
 * [OpenCR](https://github.com/ROBOTIS-GIT/OpenCR/) - Open Source Control Module for ROS. OpenCR is developed for ROS embedded systems to provide completely open-source hardware and software. ![OpenCR](https://img.shields.io/github/stars/ROBOTIS-GIT/OpenCR.svg?style=flat&label=Star&maxAge=86400)
+* [DRV8825_ROS](https://github.com/jstiefel/DRV8825_ROS) - uses an Arduino Uno Rev.3 as a ROS node to control a stepper motor by using DRV8825 motor driver. ![DRV8825_ROS](https://img.shields.io/github/stars/jstiefel/DRV8825_ROS.svg?style=flat&label=Star&maxAge=86400)
 
 ### Sensors
 
@@ -106,6 +109,7 @@ The list of tools and packages for Robot Operating System development!
 
 * [multimaster_fkie](https://github.com/fkie/multimaster_fkie) - the ROS stack of fkie_multimaster offers a complete solution for using ROS with multicores. In addition, Node Manager with a daemon provide a GUI-based management environment that is very useful to manage ROS-launch configurations and control running nodes, also in a single-core system. ![multimaster_fkie](https://img.shields.io/github/stars/fkie/multimaster_fkie.svg?style=flat&label=Star&maxAge=86400)
 * [rosmon](https://github.com/xqms/rosmon) - rosmon is a drop-in replacement for the standard roslaunch tool. Rather unlike roslaunch, rosmon is focused on (remote) process monitoring. [rosmon Wiki](http://wiki.ros.org/rosmon). ![rosmon](https://img.shields.io/github/stars/xqms/rosmon.svg?style=flat&label=Star&maxAge=86400)
+* [aruco_pose](https://github.com/CopterExpress/clover/tree/master/aruco_pose) - aruco_pose package consists of two nodelets: `aruco_detect` detects individual ArUco-markers and estimates their poses, `aruco_map` detects maps of markers using aruco_detect output. ![aruco_pose](https://img.shields.io/github/stars/master/aruco_pose.svg?style=flat&label=Star&maxAge=86400)
 
 ## License
 
