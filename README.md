@@ -35,7 +35,7 @@ The list of tools and packages for Robot Operating System development!
 ### Logging
 
 * [ROS Logs & ELK Stack](https://github.com/karadalex/roslogs-elk-docker) - demo of collecting ROS Logs (from ROS Containers) with Filebeat which are then sent to Logstash indexed by Elasticsearch and can then be viewed and visualized at Kibana. All logs are stored in the roslogs volume. ![ROS Logs & ELK Stack](https://img.shields.io/github/stars/karadalex/roslogs-elk-docker.svg?style=flat&label=Star&maxAge=86400)
-* [log_view](hhttps://github.com/hatchbed/log_view) - an ncurses text UI for viewing rosout logs. Allows to receive, filter, and navigate through all published rosout log messages from within a terminal to support debugging a robot live. [ROS wiki](http://wiki.ros.org/log_view) ![log_view](https://img.shields.io/github/stars/hatchbed/log_view.svg?style=flat&label=Star&maxAge=86400)
+* [log_view](https://github.com/hatchbed/log_view) - an ncurses text UI for viewing rosout logs. Allows to receive, filter, and navigate through all published rosout log messages from within a terminal to support debugging a robot live. [ROS wiki](http://wiki.ros.org/log_view) ![log_view](https://img.shields.io/github/stars/hatchbed/log_view.svg?style=flat&label=Star&maxAge=86400)
 
 ### Documentation
 
