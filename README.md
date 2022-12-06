@@ -7,6 +7,7 @@ The list of tools and packages for Robot Operating System development!
 
 * [Best practices](#best_practices)
 * [Development tools](#development-tools)
+  * [Logging](#logging)
   * [Documentation](#documentation)  
 * [Bag files](#bag-files)
 * [Visualization](#visualization)
@@ -27,16 +28,14 @@ The list of tools and packages for Robot Operating System development!
 * [catkin_tools](https://catkin-tools.readthedocs.io/en/latest/index.html) - command line tools for working with catkin [github](https://github.com/catkin/catkin_tools). ![catkin_tools](https://img.shields.io/github/stars/catkin/catkin_tools.svg?style=flat&label=Star&maxAge=86400)
 * [ROSCpp Code Format](https://github.com/davetcoleman/roscpp_code_format) - the repo contains an auto formatting script for the [ROS C++ Style Guidelines](http://wiki.ros.org/CppStyleGuide). ![roscpp_code_format](https://img.shields.io/github/stars/davetcoleman/roscpp_code_format.svg?style=flat&label=Star&maxAge=86400)
 * [swri_profiler](https://github.com/swri-robotics/swri_profiler) - is a lightweight profiling framework for C++ ROS nodes. It allows you to selectively measure how much time is spent in various scopes. Profiling data is generated and published to a ROS topic where it can be recorded or monitored in real time. The profiler was designed to be lightweight enough that it can be left in during normal operation so that performance data can be monitored at any time. ![swri_profiler](https://img.shields.io/github/stars/swri-robotics/swri_profiler.svg?style=flat&label=Star&maxAge=86400)
-* [pal_statistics](https://github.com/pal-robotics/pal_statistics) - provides a way of gathering, aggregating, storing and visualizing statistics from arbitrary sources in a flexible and real-time safe way in ROS. From internal variables values to high level statistics about, but not limited to, robot performance [pal_statistics Wiki](http://wiki.ros.org/pal_statistics). ![pal_statistics](https://img.shields.io/github/stars/pal-robotics/pal_statistics.svg?style=flat&label=Star&maxAge=86400)
-* [ROS Logs & ELK Stack](https://github.com/karadalex/roslogs-elk-docker) - demo of collecting ROS Logs (from ROS Containers) with Filebeat which are then sent to Logstash indexed by Elasticsearch and can then be viewed and visualized at Kibana. All logs are stored in the roslogs volume. ![ROS Logs & ELK Stack](https://img.shields.io/github/stars/karadalex/roslogs-elk-docker.svg?style=flat&label=Star&maxAge=86400)
+* [pal_statistics](https://github.com/pal-robotics/pal_statistics) - provides a way of gathering, aggregating, storing and visualizing statistics from arbitrary sources in a flexible and real-time safe way in ROS. From internal variables values to high level statistics about, but not limited to, robot performance. [pal_statistics Wiki](http://wiki.ros.org/pal_statistics). ![pal_statistics](https://img.shields.io/github/stars/pal-robotics/pal_statistics.svg?style=flat&label=Star&maxAge=86400)
 * [ros2-migration-tools](https://github.com/awslabs/ros2-migration-tools) - contains a set of tools for migrating a ROS1 package to a ROS2 package. The C++ source code migration uses libclang8 and its corresponding python bindings. ![ros2-migration-tools](https://img.shields.io/github/stars/awslabs/ros2-migration-tools.svg?style=flat&label=Star&maxAge=86400)
 * [ ROS Qt Creator Plug-in](https://ros-qtc-plugin.readthedocs.io/en/latest/index.html) - plug-in for Qt Creator to work with ROS workspaces, analyse performance and debug code. 
 
 ### Logging
+
 * [ROS Logs & ELK Stack](https://github.com/karadalex/roslogs-elk-docker) - demo of collecting ROS Logs (from ROS Containers) with Filebeat which are then sent to Logstash indexed by Elasticsearch and can then be viewed and visualized at Kibana. All logs are stored in the roslogs volume. ![ROS Logs & ELK Stack](https://img.shields.io/github/stars/karadalex/roslogs-elk-docker.svg?style=flat&label=Star&maxAge=86400)
 * [log_view](hhttps://github.com/hatchbed/log_view) - an ncurses text UI for viewing rosout logs. Allows to receive, filter, and navigate through all published rosout log messages from within a terminal to support debugging a robot live. [ROS wiki](http://wiki.ros.org/log_view) ![log_view](https://img.shields.io/github/stars/hatchbed/log_view.svg?style=flat&label=Star&maxAge=86400)
-
-
 
 ### Documentation
 
@@ -93,6 +92,9 @@ The list of tools and packages for Robot Operating System development!
 
 * [OpenCR](https://github.com/ROBOTIS-GIT/OpenCR/) - Open Source Control Module for ROS. OpenCR is developed for ROS embedded systems to provide completely open-source hardware and software. ![OpenCR](https://img.shields.io/github/stars/ROBOTIS-GIT/OpenCR.svg?style=flat&label=Star&maxAge=86400)
 * [DRV8825_ROS](https://github.com/jstiefel/DRV8825_ROS) - uses an Arduino Uno Rev.3 as a ROS node to control a stepper motor by using DRV8825 motor driver. ![DRV8825_ROS](https://img.shields.io/github/stars/jstiefel/DRV8825_ROS.svg?style=flat&label=Star&maxAge=86400)
+* [NovAtel GPS Driver](https://github.com/swri-robotics/novatel_gps_driver) - C++ ROS driver for NovAtel GPS / GNSS Receivers. ![NovAtel GPS Driver](https://img.shields.io/github/stars/swri-robotics/novatel_gps_driver.svg?style=flat&label=Star&maxAge=86400)
+
+
 
 ### Sensors
 
@@ -117,6 +119,9 @@ The list of tools and packages for Robot Operating System development!
 * [multimaster_fkie](https://github.com/fkie/multimaster_fkie) - the ROS stack of fkie_multimaster offers a complete solution for using ROS with multicores. In addition, Node Manager with a daemon provide a GUI-based management environment that is very useful to manage ROS-launch configurations and control running nodes, also in a single-core system. ![multimaster_fkie](https://img.shields.io/github/stars/fkie/multimaster_fkie.svg?style=flat&label=Star&maxAge=86400)
 * [rosmon](https://github.com/xqms/rosmon) - rosmon is a drop-in replacement for the standard roslaunch tool. Rather unlike roslaunch, rosmon is focused on (remote) process monitoring. [rosmon Wiki](http://wiki.ros.org/rosmon). ![rosmon](https://img.shields.io/github/stars/xqms/rosmon.svg?style=flat&label=Star&maxAge=86400)
 * [aruco_pose](https://github.com/CopterExpress/clover/tree/master/aruco_pose) - aruco_pose package consists of two nodelets: `aruco_detect` detects individual ArUco-markers and estimates their poses, `aruco_map` detects maps of markers using aruco_detect output. ![aruco_pose](https://img.shields.io/github/stars/CopterExpress/clover.svg?style=flat&label=Star&maxAge=86400)
+* [imagezero_transport](https://github.com/swri-robotics/imagezero_transport) -  fast, lossless compression algorithm for 24-bit color photographic images. It compresses more than 20 times faster than PNG and decompresses about twice as fast, which means it is suitable for lossless compression of real-time camera video feeds. ![imagezero_transport](https://img.shields.io/github/stars/swri-robotics/imagezero_transport.svg?style=flat&label=Star&maxAge=86400)
+
+
 
 ## License
 
