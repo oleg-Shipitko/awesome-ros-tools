@@ -32,10 +32,16 @@ The list of tools and packages for Robot Operating System development!
 * [ros2-migration-tools](https://github.com/awslabs/ros2-migration-tools) - contains a set of tools for migrating a ROS1 package to a ROS2 package. The C++ source code migration uses libclang8 and its corresponding python bindings. ![ros2-migration-tools](https://img.shields.io/github/stars/awslabs/ros2-migration-tools.svg?style=flat&label=Star&maxAge=86400)
 * [ ROS Qt Creator Plug-in](https://ros-qtc-plugin.readthedocs.io/en/latest/index.html) - plug-in for Qt Creator to work with ROS workspaces, analyse performance and debug code. 
 
+### Logging
+* [ROS Logs & ELK Stack](https://github.com/karadalex/roslogs-elk-docker) - demo of collecting ROS Logs (from ROS Containers) with Filebeat which are then sent to Logstash indexed by Elasticsearch and can then be viewed and visualized at Kibana. All logs are stored in the roslogs volume. ![ROS Logs & ELK Stack](https://img.shields.io/github/stars/karadalex/roslogs-elk-docker.svg?style=flat&label=Star&maxAge=86400)
+* [log_view](hhttps://github.com/hatchbed/log_view) - an ncurses text UI for viewing rosout logs. Allows to receive, filter, and navigate through all published rosout log messages from within a terminal to support debugging a robot live. [ROS wiki](http://wiki.ros.org/log_view) ![log_view](https://img.shields.io/github/stars/hatchbed/log_view.svg?style=flat&label=Star&maxAge=86400)
+
+
 
 ### Documentation
 
-* [rosdoc_lite](http://wiki.ros.org/rosdoc_lite) - ROS package wraps documentation tools like doxygen, sphinx, and epydoc, making it convenient to generate ROS package documentation. It also generates online documentation for the ROS wiki. [github](https://github.com/ros-infrastructure/rosdoc_lite). ![rosdoc_lite](https://img.shields.io/github/stars/ros-infrastructure/rosdoc_lite.svg?style=flat&label=Star&maxAge=86400)
+* [rosdoc_lite](http://
+.ros.org/rosdoc_lite) - ROS package wraps documentation tools like doxygen, sphinx, and epydoc, making it convenient to generate ROS package documentation. It also generates online documentation for the ROS wiki. [github](https://github.com/ros-infrastructure/rosdoc_lite). ![rosdoc_lite](https://img.shields.io/github/stars/ros-infrastructure/rosdoc_lite.svg?style=flat&label=Star&maxAge=86400)
 * [rosautodoc](https://github.com/bponsler/rosautodoc) - the rosautodoc project provides a python executable that can automatically generate documentation for ROS nodes that are running on the system. ![rosautodoc](https://img.shields.io/github/stars/bponsler/rosautodoc.svg?style=flat&label=Star&maxAge=86400)
 * [roslaunch_to_dot](https://github.com/bponsler/roslaunch_to_dot) - convert a roslaunch XML file into a dot file containing a graph of the launch tree. ![roslaunch_to_dot](https://img.shields.io/github/stars/bponsler/roslaunch_to_dot.svg?style=flat&label=Star&maxAge=86400)
 
