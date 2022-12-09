@@ -11,6 +11,13 @@ The list of tools and packages for Robot Operating System development!
   * [Documentation](#documentation)  
   * [Qt](#Qt)
 * [Bag files](#bag-files)
+ * Recording/Playing (#recording/playing)
+ * Editing (#editing)
+ * Managing (storing, organizing, searching, migrating and so on) (#managing (storing, organizing, searching, migrating and so on))
+ * Extracting data (#extracting data)
+
+
+
 * [Visualization](#visualization)
 * [Code testing](#code-testing)
 * [Simulation](#simulation)
@@ -54,21 +61,34 @@ The list of tools and packages for Robot Operating System development!
 
 ## Bag files
 
+### Recording/Playing
+
 * [rosbag_fancy](https://github.com/xqms/rosbag_fancy) - fancy terminal UI frontend for the venerable rosbag tool ![rosbag_fancy](https://img.shields.io/github/stars/xqms/rosbag_fancy.svg?style=flat&label=Star&maxAge=86400)
-* [rosbag-sliding-windows-annotator](https://github.com/ewerlopes/rosbag-sliding-windows-annotator) - Providing a way to annotate rosbag files by using the method of sliding windows (use a video image topic as a guide for tagging numerical data) ![rosbag-sliding-windows-annotator](https://img.shields.io/github/stars/ewerlopes/rosbag-sliding-windows-annotator.svg?style=flat&label=Star&maxAge=86400)
+* [rosbag_snapshot](https://github.com/ros/rosbag_snapshot) - subscribes to topics and maintains a buffer of recent messages like a dash cam. This is useful in live testing where unexpected events can occur which would be useful to have data on but the opportunity is missed if rosbag record was not running (disk space limits make always running rosbag record impracticable). Instead, users may run snapshot in the background and save data from the recent past to disk as needed. ![rosbag_snapshot](https://img.shields.io/github/stars/ros/rosbag_snapshot.svg?style=flat&label=Star&maxAge=86400)
+* [batch_ros](https://github.com/lrse/batch_ros) - provides a framework for batch execution under ROS, to ensure a node consumes every message in a rosbag, allowing for repeatable results and ensure no message dropping. This not only allows for rigorous testing of a ROS node but also running tests on Continuous Integration (CI) based on rosbag data. ![batch_ros](https://img.shields.io/github/stars/lrse/batch_ros.svg?style=flat&label=Star&maxAge=86400)
+* [rosbag_metadata](https://github.com/hordurk/rosbag_metadata) - tool for collecting and writing metadata to ROS bagfiles or to accompanying yaml files. ![rosbag_metadata](https://img.shields.io/github/stars/hordurk/rosbag_metadata.svg?style=flat&label=Star&maxAge=86400)
+
+
+### Editing
+
 * [rosbag_editor](https://github.com/facontidavide/rosbag_editor) - GUI-app to remove one or more topics from a rosbag, change the duration of the rosbag, rename a topic, change the compression type etc. ![rosbag_editor](https://img.shields.io/github/stars/facontidavide/rosbag_editor.svg?style=flat&label=Star&maxAge=86400)
+
+
+### Managing (storing, organizing, searching, migrating and so on)
+
 * [bag-database](https://github.com/swri-robotics/bag-database) - web-based application that monitors a directory for ROS bag files, parses their metadata, and provides a friendly web interface for searching for bags and downloading them. Its goal is to make it easy to catalog thousands of bag files, search through them for relevant data such as topic names and message types, view information about them, and download them. ![bag-database](https://img.shields.io/github/stars/swri-robotics/bag-database.svg?style=flat&label=Star&maxAge=86400)
 * [rbb_core](https://github.com/AMZ-Driverless/rbb_core) - tool to index/visualize/manage rosbags on remote storage systems. Additionally it provides a web interface and framework for automated simulations. ![rbb_core-database](https://img.shields.io/github/stars/AMZ-Driverless/rbb_core.svg?style=flat&label=Star&maxAge=86400)
 * [marv-robotics](https://github.com/KITcar-Team/marv-robotics) - MARV Robotics is an extensible data management platform for robot logs. New robot logs are found by a scanner and configured nodes are run to extract, filter and process data from them. The robot logs are visualized in a web-based application that features a listing view with filters and summary, and detail views of individual log files. ![marv-robotics](https://img.shields.io/github/stars/KITcar-Team/marv-robotics.svg?style=flat&label=Star&maxAge=86400)
-* [RosbagPandas](https://github.com/aktaylor08/RosbagPandas) - create Python pandas data frame from a ros bag file. ![RosbagPandas](https://img.shields.io/github/stars/aktaylor08/RosbagPandas.svg?style=flat&label=Star&maxAge=86400)
-* [rosbag_metadata](https://github.com/hordurk/rosbag_metadata) - tool for collecting and writing metadata to ROS bagfiles or to accompanying yaml files. ![rosbag_metadata](https://img.shields.io/github/stars/hordurk/rosbag_metadata.svg?style=flat&label=Star&maxAge=86400)
-* [bag_tools](https://github.com/srv/srv_tools) - set of useful bag processing tools (make_video from topic, change_frame_id, change_camera_info, extract_stereo_images etc.). [bag_tools Wiki](https://wiki.ros.org/bag_tools?distro=kinetic#make_video.py). ![bag_tools](https://img.shields.io/github/stars/srv/srv_tools.svg?style=flat&label=Star&maxAge=86400)
 * [rosbag_compress](https://github.com/AtsushiSakai/rosbag_compress) - a python command line tool for compression or decompression of multiple ROS bag files. This tool searchs bag files recrusively,compress or compress them at same time. It is executed in parallel process, so the task is done fastly. ![rosbag_compress](https://img.shields.io/github/stars/AtsushiSakai/rosbag_compress.svg?style=flat&label=Star&maxAge=86400)
-* [rosbag_snapshot](https://github.com/ros/rosbag_snapshot) - subscribes to topics and maintains a buffer of recent messages like a dash cam. This is useful in live testing where unexpected events can occur which would be useful to have data on but the opportunity is missed if rosbag record was not running (disk space limits make always running rosbag record impracticable). Instead, users may run snapshot in the background and save data from the recent past to disk as needed. ![rosbag_snapshot](https://img.shields.io/github/stars/ros/rosbag_snapshot.svg?style=flat&label=Star&maxAge=86400)
-* [batch_ros](https://github.com/lrse/batch_ros) - provides a framework for batch execution under ROS, to ensure a node consumes every message in a rosbag, allowing for repeatable results and ensure no message dropping. This not only allows for rigorous testing of a ROS node but also running tests on Continuous Integration (CI) based on rosbag data. ![batch_ros](https://img.shields.io/github/stars/lrse/batch_ros.svg?style=flat&label=Star&maxAge=86400)
 * [ros-bag-migration](https://github.com/Evocargo/ros-bag-migration) - allows you to change the format of messages in recorded bags in ROS 1. This may be needed when you decide to record new bags with an updated set of message definitions, and you want to change older bags accordingly for compatibility. ![ros-bag-migration](https://img.shields.io/github/stars/Evocargo/ros-bag-migration.svg?style=flat&label=Star&maxAge=86400)
+* [rosbag-sliding-windows-annotator](https://github.com/ewerlopes/rosbag-sliding-windows-annotator) - providing a way to annotate rosbag files by using the method of sliding windows (use a video image topic as a guide for tagging numerical data) ![rosbag-sliding-windows-annotator](https://img.shields.io/github/stars/ewerlopes/rosbag-sliding-windows-annotator.svg?style=flat&label=Star&maxAge=86400)
+
+### Extracting data
+
+* [RosbagPandas](https://github.com/aktaylor08/RosbagPandas) - create Python pandas data frame from a ros bag file. ![RosbagPandas](https://img.shields.io/github/stars/aktaylor08/RosbagPandas.svg?style=flat&label=Star&maxAge=86400)
 * [rs_bag2image](https://github.com/UnaNancyOwen/rs_bag2image) - convert tool that works on cross-platform (Windows, Linux, MacOS) **for RealSense**.
 This tool converts all data of each stream types (Color, Depth, Infrared) that contained in bag file to image file. ![rs_bag2image](https://img.shields.io/github/stars/UnaNancyOwen/rs_bag2image.svg?style=flat&label=Star&maxAge=86400)
+* [bag_tools](https://github.com/srv/srv_tools) - set of useful bag processing tools (make_video from topic, change_frame_id, change_camera_info, extract_stereo_images etc.). [bag_tools Wiki](https://wiki.ros.org/bag_tools?distro=kinetic#make_video.py). ![bag_tools](https://img.shields.io/github/stars/srv/srv_tools.svg?style=flat&label=Star&maxAge=86400)
 
 
 ## Visualization
