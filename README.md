@@ -13,7 +13,7 @@ The list of tools and packages for Robot Operating System development!
 * [Bag files](#bag-files)
  * [Recording/Playing](#recording/playing)
  * [Editing](#editing)
- * [Managing (storing, organizing, searching, migrating and so on)](#managing-(storing,-organizing,-searching,-migrating-and-so-on))
+ * [Managing (storing, organizing, searching, migrating and so on)](#managing)
  * [Extracting data](#extracting-data)
 * [Visualization](#visualization)
 * [Code testing](#code-testing)
