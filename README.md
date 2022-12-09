@@ -11,13 +11,10 @@ The list of tools and packages for Robot Operating System development!
   * [Documentation](#documentation)  
   * [Qt](#Qt)
 * [Bag files](#bag-files)
- * Recording/Playing (#recording/playing)
- * Editing (#editing)
- * Managing (storing, organizing, searching, migrating and so on) (#managing (storing, organizing, searching, migrating and so on))
- * Extracting data (#extracting data)
-
-
-
+ * [Recording/Playing](#recording/playing)
+ * [Editing](#editing)
+ * [Managing (storing, organizing, searching, migrating and so on)](#managing (storing, organizing, searching, migrating and so on))
+ * [Extracting data](#extracting data)
 * [Visualization](#visualization)
 * [Code testing](#code-testing)
 * [Simulation](#simulation)
