@@ -21,6 +21,7 @@ The list of tools and packages for Robot Operating System development!
 * [Hardware](#hardware)
   * [Sensors](#sensors)
 * [Web tools](#web-tools)
+* [Security](#security)
 * [Other](#other)
 
 ## Best Practices
@@ -141,6 +142,11 @@ This tool converts all data of each stream types (Color, Depth, Infrared) that c
 * [web_video_server](https://github.com/RobotWebTools/web_video_server) - HTTP Streaming of ROS Image Topics in Multiple Formats. ![web_video_server](https://img.shields.io/github/stars/RobotWebTools/web_video_server.svg?style=flat&label=Star&maxAge=86400)
 * [ros_rtsp](https://github.com/CircusMonkey/ros_rtsp) - ROS package to subscribe to an ROS Image topic (and as many other video sources as you want) and serve it up as a RTSP video feed with different mount points. Should provide a real-time video feed (or as close as possible). ![ros_rtsp](https://img.shields.io/github/stars/CircusMonkey/ros_rtsp.svg?style=flat&label=Star&maxAge=86400)
 
+## Security 
+[ROSPenTo](https://github.com/jr-robotics/ROSPenTo) - ROS penetration testing tool which can send XML remote procedure calls (XMLRPC) to the ROS-Master and to ROS-Nodes. ![ROSPenTo](https://img.shields.io/github/stars/jr-robotics/ROSPenTo.svg?style=flat&label=Star&maxAge=86400)
+[alurity]([https://github.com/jr-robotics/ROSPenTo](https://aliasrobotics.com/alurity.php)) - a modular and composable toolbox for robot security. Featuring dozens of different robot cyber security tools, it simplifies and speeds up the cyber security research in robotics.
+
+
 ## Other
 
 * [multimaster_fkie](https://github.com/fkie/multimaster_fkie) - the ROS stack of fkie_multimaster offers a complete solution for using ROS with multicores. In addition, Node Manager with a daemon provide a GUI-based management environment that is very useful to manage ROS-launch configurations and control running nodes, also in a single-core system. ![multimaster_fkie](https://img.shields.io/github/stars/fkie/multimaster_fkie.svg?style=flat&label=Star&maxAge=86400)
@@ -149,6 +155,7 @@ This tool converts all data of each stream types (Color, Depth, Infrared) that c
 * [imagezero_transport](https://github.com/swri-robotics/imagezero_transport) - fast, lossless compression algorithm for 24-bit color photographic images. It compresses more than 20 times faster than PNG and decompresses about twice as fast, which means it is suitable for lossless compression of real-time camera video feeds. ![imagezero_transport](https://img.shields.io/github/stars/swri-robotics/imagezero_transport.svg?style=flat&label=Star&maxAge=86400)
 * [ros_scxml](https://github.com/swri-robotics/ros_scxml) - lightweight finite state machine library that uses the [SCXML](https://en.wikipedia.org/wiki/SCXML) standard. ![ros_scxml](https://img.shields.io/github/stars/swri-robotics/ros_scxml.svg?style=flat&label=Star&maxAge=86400)
 * [message_serialization](https://github.com/swri-robotics/message_serialization) - a header-only utility for serializing C++ structures (specifically ROS messages) into YAML-formatted and binary-formatted files that can be loaded to/from disk. ![message_serialization](https://img.shields.io/github/stars/swri-robotics/message_serialization.svg?style=flat&label=Star&maxAge=86400)
+* [robo-gym](https://github.com/jr-robotics/robo-gym) - an open source toolkit for distributed reinforcement learning on real and simulated robots. ![robo-gym](https://img.shields.io/github/stars/jr-robotics/robo-gym.svg?style=flat&label=Star&maxAge=86400)
 
 
 
