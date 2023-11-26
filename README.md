@@ -143,8 +143,8 @@ This tool converts all data of each stream types (Color, Depth, Infrared) that c
 * [ros_rtsp](https://github.com/CircusMonkey/ros_rtsp) - ROS package to subscribe to an ROS Image topic (and as many other video sources as you want) and serve it up as a RTSP video feed with different mount points. Should provide a real-time video feed (or as close as possible). ![ros_rtsp](https://img.shields.io/github/stars/CircusMonkey/ros_rtsp.svg?style=flat&label=Star&maxAge=86400)
 
 ## Security 
-[ROSPenTo](https://github.com/jr-robotics/ROSPenTo) - ROS penetration testing tool which can send XML remote procedure calls (XMLRPC) to the ROS-Master and to ROS-Nodes. ![ROSPenTo](https://img.shields.io/github/stars/jr-robotics/ROSPenTo.svg?style=flat&label=Star&maxAge=86400)
-[alurity]([https://github.com/jr-robotics/ROSPenTo](https://aliasrobotics.com/alurity.php)) - a modular and composable toolbox for robot security. Featuring dozens of different robot cyber security tools, it simplifies and speeds up the cyber security research in robotics.
+* [ROSPenTo](https://github.com/jr-robotics/ROSPenTo) - ROS penetration testing tool which can send XML remote procedure calls (XMLRPC) to the ROS-Master and to ROS-Nodes. ![ROSPenTo](https://img.shields.io/github/stars/jr-robotics/ROSPenTo.svg?style=flat&label=Star&maxAge=86400)
+* [alurity]([https://github.com/jr-robotics/ROSPenTo](https://aliasrobotics.com/alurity.php)) - a modular and composable toolbox for robot security. Featuring dozens of different robot cyber security tools, it simplifies and speeds up the cyber security research in robotics.
 
 
 ## Other
