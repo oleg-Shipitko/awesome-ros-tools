@@ -116,6 +116,7 @@ This tool converts all data of each stream types (Color, Depth, Infrared) that c
 * [Dataset of Gazebo Worlds Models and Maps](https://github.com/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps) - a set of Gazebo worlds models and maps. ![Dataset of Gazebo Worlds Models and Maps](https://img.shields.io/github/stars/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps.svg?style=flat&label=Star&maxAge=86400)
 * [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity including integration with ROS. ![Unity Robotics Hub](https://img.shields.io/github/stars/Unity-Technologies/Unity-Robotics-Hub.svg?style=flat&label=Star&maxAge=86400)
 * [xmacro](https://github.com/gezp/xmacro) - looks like a simplified version of ros/xacro, it's simpler, but it works well both for urdf and sdf. In addition it's flexible, and also easy to use. ![xmacro](https://img.shields.io/github/stars/gezp/xmacro.svg?style=flat&label=Star&maxAge=86400)
+* [OpenDroneLab](https://github.com/palcode/opendronelab) - a containerised PX4 v1.17, ROS 2 Jazzy and Gazebo Harmonic SITL lab with evo Umeyama RMSE gates for optional OpenVINS VIO and EKF2. [github](https://github.com/palcode/opendronelab) ![OpenDroneLab](https://img.shields.io/github/stars/palcode/opendronelab.svg?style=flat&label=Star&maxAge=86400)
 
 
 ## Hardware
